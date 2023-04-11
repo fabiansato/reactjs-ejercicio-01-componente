@@ -1,4 +1,4 @@
-# Ejercicio 02 React
+# Ejercicio 01 React
 
 Crear una aplicación con react cli llamada "myapp". 
 
